@@ -1,0 +1,37 @@
+/* line 1, xiangce.scss */
+* {
+  margin: 0;
+  padding: 0; }
+
+/* line 6, xiangce.scss */
+li {
+  list-style: none; }
+
+/* line 10, xiangce.scss */
+html, body, .container {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #000; }
+
+/* line 17, xiangce.scss */
+.small {
+  width: 100%;
+  height: 100%;
+  background: #000; }
+  /* line 22, xiangce.scss */
+  .small li {
+    float: left;
+    background: red; }
+
+/* line 30, xiangce.scss */
+.big {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: none;
+  background: #000; }
+
+/*# sourceMappingURL=xiangce.css.map */
